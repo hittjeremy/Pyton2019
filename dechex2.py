@@ -1,4 +1,4 @@
-# dechex1.py jeremyhitt
+# dechex1.py jeremyhitt kenny
 def hexcon(num):
 	HexString =""
 	Key = "0123456789ABCDEF"	
